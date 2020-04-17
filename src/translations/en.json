@@ -1,0 +1,17 @@
+{
+  "filter" : "Filter",
+
+  "settings" : "Settings",
+  "logout" : "Logout",
+  "login" : "Login",
+  "connection": "Connection",
+
+  "useName": "Use the name instead of the identifier",
+  "General": "General",
+
+  "parameters": "Parameters",
+  "theme": "Theme",
+  "close": "Close",
+
+  "centerOnMap": "Center on the map"
+}
