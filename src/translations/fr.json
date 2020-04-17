@@ -1,0 +1,19 @@
+{
+  "appName": "Gestionnaire Geo-Data",
+
+  "filter" : "Filtre",
+
+  "settings" : "Paramètres",
+  "logout" : "Se déconnecter",
+  "login" : "Se connecter",
+  "connection": "Connexion",
+
+  "useName": "Utiliser le nom à la place de l'identifiant",
+  "General": "Général",
+
+  "parameters": "Paramètres",
+  "theme": "Thème",
+  "close": "Fermer",
+
+  "centerOnMap": "Centrer sur la carte"
+}
